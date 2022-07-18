@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#FFFFFF</color>
+    <color name="background_grey">#181818</color>
+    <color name="black">#000000</color>
+    <color name="button_music">#D50000</color>
+    <color name="button_search">#0091EA</color>
+    <color name="colour_primary">#2962FF</color>
+    <color name="colour_primary_variant">#466CD5</color>
+    <color name="colour_secondary">#0091EA</color>
+    <color name="colour_secondary_variant">#35AEF8</color>
+    <color name="text_main">#191919</color>
+    <color name="text_weapon_arc">#24F2FF</color>
+    <color name="text_weapon_heavy">#CF63FF</color>
+    <color name="text_weapon_kinetic">#E6E6E6</color>
+    <color name="text_weapon_primary">#CFCFCF</color>
+    <color name="text_weapon_solar">#FF702A</color>
+    <color name="text_weapon_special">#4CF465</color>
+    <color name="text_weapon_stasis">#1E68FF</color>
+    <color name="text_weapon_void">#A054EF</color>
+    <color name="white">#FFFFFF</color>
+</resources>

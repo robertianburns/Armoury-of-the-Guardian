@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Armoury of the Guardian</string>
+    <string name="search_for_weapons">Enter a weapon</string>
+    <string name="the_weapon_icon">The weapon icon</string>
+    <string name="search">Search</string>
+    <string name="the_chosen_weapon_s_icon">The chosen weapon\'s icon.</string>
+    <string name="change_music">Music</string>
+</resources>

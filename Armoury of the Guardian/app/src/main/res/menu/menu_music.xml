@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/d1vanilla"
+        android:title="Destiny" />
+    <item
+        android:id="@+id/d1ttk"
+        android:title="Destiny: The Taken King" />
+    <item
+        android:id="@+id/d1roi"
+        android:title="Destiny: Rise of Iron" />
+    <item
+        android:id="@+id/d2vanilla"
+        android:title="Destiny 2" />
+    <item
+        android:id="@+id/d2forsaken"
+        android:title="Destiny 2: Forsaken" />
+    <item
+        android:id="@+id/d2beyondlight"
+        android:title="Destiny 2: Beyond Light" />
+    <item
+        android:id="@+id/mute"
+        android:title="Turn off" />
+</menu>
